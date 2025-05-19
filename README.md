@@ -19,12 +19,3 @@ Bu adrenalin dolu maceraya atılmak için aşağıdaki bağlantıya tıklayarak 
 ## ✨ Katkılar
 
 Bu, benim kişisel bir geliştirme yolculuğumun bir parçası olarak ortaya çıktı. Geri bildirimleriniz ve yapıcı eleştirileriniz bu yolculukta bana ışık tutacaktır. Her türlü önerinizi memnuniyetle karşılarım!
-## 📥 Hemen Oyna!
-
-Bu adrenalin dolu maceraya atılmak için aşağıdaki bağlantıya tıklayarak oyunu indirebilir ve anında oynamaya başlayabilirsiniz:
-
-[🚀 Oyunun Yayın Linki Buraya Gelecek 🌠](buraya_oyunun_release_linki_yapıştırılacak)
-
-## ✨ Katkılar
-
-Bu, benim kişisel bir geliştirme yolculuğumun bir parçası olarak ortaya çıktı. Geri bildirimleriniz ve yapıcı eleştirileriniz bu yolculukta bana ışık tutacaktır. Her türlü önerinizi memnuniyetle karşılarım!
